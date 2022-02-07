@@ -1,0 +1,21 @@
+{
+    "data": {
+        "creators": [
+            {
+                "address": "6epFX4NEHZoEx5yKCxg4w3YoPBayC85BypimZis548Uk",
+                "share": 100,
+                "verified": true
+            }
+        ],
+        "name": "Bla bla bla",
+        "seller_fee_basis_points": 500,
+        "symbol": "NFTPro",
+        "uri": "https://arweave.net/-DQCWU-pK7233WSSa7gUKj2YIdju67_xeQMXMTDOSu0"
+    },
+    "edition_nonce": 254,
+    "is_mutable": true,
+    "key": "MetadataV1",
+    "mint": "4vu5sDuppLRiNxsbdpyzUeAbv116ZA6CEqhnBkNVaYG6",
+    "primary_sale_happened": false,
+    "update_authority": "fFVjfMRU9fFNrnMaQkozx1Mj1cPcmFfRWpp1XXjumbk"
+}
